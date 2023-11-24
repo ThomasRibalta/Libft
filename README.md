@@ -8,3 +8,4 @@ This project is undoubtedly the most useful for us at 42, as it allows us to rev
 
 # Dificulty
 
+⭐️⭐️⬛️⬛️⬛️
